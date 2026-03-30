@@ -1,0 +1,11 @@
+
+INVOICE
+
+Vendor: TechPro Solutions Pvt. Ltd.
+Invoice Number: INV-2026-0042
+Date: 2026-03-28
+Amount: 45000
+
+Description: Annual cloud hosting and DevOps management services.
+
+Payment Terms: Net 30

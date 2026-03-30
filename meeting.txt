@@ -1,0 +1,5 @@
+Arjun will handle backend API development.
+Priya should prepare documentation.
+Rahul must deploy the system by Friday.
+The team should also review the security protocols.
+Dana will organize the next meeting.
